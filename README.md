@@ -1,13 +1,13 @@
-Ex-1 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models.
+## Ex-1 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models.
 
-Experiment: Develop a comprehensive report for the following exercises:
+## Experiment: Develop a comprehensive report for the following exercises:
 
   1. Explain the foundational concepts of Generative AI, Generative Model and it's types.
   2. 2024 AI tools.
   3. Explain what an LLM is and how it is built.
   4. Create a Timeline Chart for defining the Evolution of AI
      
-Algorithm:
+## Algorithm:
 
 Step 1: Define Scope and Objectives
   1.1 Identify the goal of the report (e.g., educational, research, tech overview)
@@ -63,7 +63,7 @@ Step 6: Review and Edit 6.1 Proofread for grammar, spelling, and clarity 6.2 Ens
 Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as PDF or desired format 7.3 Prepare a brief presentation if required (optional)
 
 
-Output:
+## Output:
 1. Foundational Concepts
 
 1.1 Generative Artificial Intelligence (Generative AI)
@@ -246,10 +246,10 @@ Timeline of AI Development
 
 1950 ─ Alan Turing proposes the Turing Test | 1956 ─ Term "Artificial Intelligence" coined at Dartmouth Conference | 1960s ─ Early AI programs (ELIZA, expert systems) | 1970s ─ First AI Winter (lack of computing power) | 1980s ─ Expert systems gain popularity | 1990s ─ Machine learning and statistical models emerge | 1997 ─ IBM Deep Blue defeats chess champion Garry Kasparov | 2010 ─ Big Data and Deep Learning rise | 2012 ─ Breakthrough in deep learning (AlexNet) | 2016 ─ AlphaGo defeats world Go champion | 2020 ─ GPT-3 demonstrates large-scale language understanding | 2022 ─ ChatGPT popularizes Generative AI | 2024 ─ Multimodal AI, LLMs, and Generative AI dominate industries
 
-conclusion
+## conclusion
 
 Generative AI and LLMs represent a major shift in artificial intelligence by enabling machines to create human-like content. With rapid advancements and powerful tools emerging in 2024, AI is becoming an essential technology across education, healthcare, business, and software development.
 
-Result:
+## Result:
 The experiment provided a clear understanding of Generative AI, its models, modern AI tools, and the construction of LLMs. The evolution timeline highlights how AI has progressed from rule-based systems to advanced generative and multimodal intelligence.
 
